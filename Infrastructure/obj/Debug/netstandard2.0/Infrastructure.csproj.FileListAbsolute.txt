@@ -1,0 +1,11 @@
+D:\Documentos\E-ComerceApp\skinet-v\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.deps.json
+D:\Documentos\E-ComerceApp\skinet-v\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.dll
+D:\Documentos\E-ComerceApp\skinet-v\Infrastructure\bin\Debug\netstandard2.0\Infrastructure.pdb
+D:\Documentos\E-ComerceApp\skinet-v\Infrastructure\bin\Debug\netstandard2.0\Core.dll
+D:\Documentos\E-ComerceApp\skinet-v\Infrastructure\bin\Debug\netstandard2.0\Core.pdb
+D:\Documentos\E-ComerceApp\skinet-v\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csprojAssemblyReference.cache
+D:\Documentos\E-ComerceApp\skinet-v\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfoInputs.cache
+D:\Documentos\E-ComerceApp\skinet-v\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.AssemblyInfo.cs
+D:\Documentos\E-ComerceApp\skinet-v\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.csproj.CopyComplete
+D:\Documentos\E-ComerceApp\skinet-v\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.dll
+D:\Documentos\E-ComerceApp\skinet-v\Infrastructure\obj\Debug\netstandard2.0\Infrastructure.pdb
